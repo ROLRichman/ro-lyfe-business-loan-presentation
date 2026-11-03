@@ -94,3 +94,18 @@ Do not assume a business grant or general-purpose operating loan can fund tax-de
 6. Build the tax-deed acquisition pipeline only when suitable capital and property due diligence are in place.
 
 **New conversation instruction:** Continue from this handoff. Check which steps have been completed, inspect the repository before changing anything, and do not restart or rename the project.
+
+
+## Website assistant integration — November 3, 2026
+
+The public lender presentation landing page now includes a **Jamal — RO’Lyfe AI Loan Intake Assistant** section linking to the user's existing Jotform Agent 1:
+https://agent.jotform.com/019bdd1fe57172838101dccf3612b1e9e787
+
+The page change adds an assistant entry point; it does not create a new Jotform agent, change agent training, change notification recipients, or modify any existing forms. The current Jotform email/chat routing should remain unchanged. Earlier context associates Jamal with richman@rootoflyfe.com; confirm inside Jotform settings before treating that as the active notification destination.
+
+Next assistant improvements:
+1. Obtain the exact current Jotform embed code from the Agent's Share/Embed panel if a true floating in-page chatbot is desired. The earlier pasted embed snippet was truncated in retained context, so do not reconstruct its missing script or iframe attributes by guess.
+2. Train Jamal with approved Root Of Lyfe LLC lender presentation pages, business profile, funding resource center, and FAQ content.
+3. Connect only the relevant low-risk intake forms after reviewing their fields and privacy requirements.
+4. Keep the agent clear that Root Of Lyfe is a funding/referral broker and not a lender; no approval or funding guarantees.
+5. Do not solicit or collect SSNs, bank login credentials, account numbers, tax returns, or IDs in open chat. Route sensitive documents through a reviewed secure form/channel.
