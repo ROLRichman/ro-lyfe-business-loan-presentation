@@ -109,3 +109,15 @@ Next assistant improvements:
 3. Connect only the relevant low-risk intake forms after reviewing their fields and privacy requirements.
 4. Keep the agent clear that Root Of Lyfe is a funding/referral broker and not a lender; no approval or funding guarantees.
 5. Do not solicit or collect SSNs, bank login credentials, account numbers, tax returns, or IDs in open chat. Route sensitive documents through a reviewed secure form/channel.
+
+## Jamal assistant knowledge base — November 3, 2026
+
+Added `JAMAL-AI-ASSISTANT-KNOWLEDGE-BASE.md` as a draft training reference for the existing Jotform agent. It covers the company's broker/referral role, the distinction between grants and financing, safe general intake, real-estate and tax-deed boundaries, privacy restrictions, FAQs, escalation rules, and approved contact information.
+
+Approved business contact addresses for the workflow:
+- Funding and lender-related correspondence: richmoneybroker@gmail.com
+- General Root Of Lyfe business correspondence: richman@rootoflyfe.com
+
+The two email addresses are recorded as business contacts. The actual Jotform notification destinations and delivery routing have not been independently verified or changed. Before uploading the knowledge base or changing agent behavior, review it for accuracy and add it through the existing agent's training/source controls. Do not create a duplicate agent.
+
+The knowledge base is public in this repository; it contains no customer documents, account details, tax records, credentials, or other confidential financial records. Keep such information out of GitHub and open chat.
